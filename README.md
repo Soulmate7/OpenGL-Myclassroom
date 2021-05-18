@@ -573,7 +573,7 @@ void reshape(int we, int he)
 }
 ```
 reshape()函数⽤来实现窗⼝的创建刷新以及视⻆的变换。其中较为重要的就是gluLookAt()函数，我们可以借 助下图来理解
-![](image/view.png)
+![view](https://github.com/Soulmate7/OpenGL-Myclassroom/raw/master/image/view.png)
 
 - 第⼀组数据就是脑袋的位置
 - 第⼆组数据就是眼睛看的物体的位置
@@ -734,22 +734,22 @@ int main(int argc, char* argv[])
 ---
 **效果展示**
 - 进入教室
-![](image/进入教室.png)
+![进入教室](https://github.com/Soulmate7/OpenGL-Myclassroom/raw/master/image/进入教室.png)
 
 - 后方
-![](image/后方.png)
+![后方](https://github.com/Soulmate7/OpenGL-Myclassroom/raw/master/image/后方.png)
 
 - 俯视
-![](image/俯视.png)
+![俯视](https://github.com/Soulmate7/OpenGL-Myclassroom/raw/master/image/俯视.png)
 
 - 教室左侧
-![](image/教室左侧.png)
+![教室左侧](https://github.com/Soulmate7/OpenGL-Myclassroom/raw/master/image/教室左侧.png)
 
 - 教室一角
-![](image/教室一角.png)
+![教室一角](https://github.com/Soulmate7/OpenGL-Myclassroom/raw/master/image/教室一角.png)
 
 - 讲台纹理细节
-![](image/讲台纹理细节.png)
+![讲台纹理细节](https://github.com/Soulmate7/OpenGL-Myclassroom/raw/master/image/讲台纹理细节.png)
 
 - 后方
-![](image/后方.png)
+![后方](https://github.com/Soulmate7/OpenGL-Myclassroom/raw/master/image/后方.png)
